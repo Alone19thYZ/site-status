@@ -2,7 +2,7 @@
 
 一个基于 UptimeRobot API 的在线状态面板
 
-![何辰风-站点监测.png](https://github.com/Alone19thYZ/site-status/blob/master/public/images/demo.png))
+![何辰风-站点监测.png](https://github.com/Alone19thYZ/site-status/blob/master/public/images/demo.png)
 
 ## 特色
 
